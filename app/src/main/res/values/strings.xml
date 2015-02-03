@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DesenhoAndroid</string>
+    <string name="start_new">Novo</string>
+    <string name="brush">Pincel</string>
+    <string name="line">Linha</string>
+    <string name="erase">Apagar</string>
+    <string name="save">Salvar</string>
+    <string name="paint">Pintar</string>
+    <string name="sml">Pequeno</string>
+    <string name="med">Médio</string>
+    <string name="lrg">Grande</string>
+
+</resources>
